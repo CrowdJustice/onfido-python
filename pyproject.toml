@@ -7,7 +7,7 @@ readme = "README.md"
 license = "MIT"
 authors = ["Ben Ahmady <ben.ahmady@onfido.com>"]
 keywords = ["onfido", "identity"]
-packages = [{ include = "onfido" }]
+packages = [{ include = "onfido_legl" }]
 
 [tool.poetry.urls]
 "Onfido API documentation" = "https://documentation.onfido.com"
